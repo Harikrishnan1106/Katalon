@@ -141,3 +141,6 @@
 [38;5;51m[50b2a485][0m[38;5;213m[AppiumDriver@eb1a][0m Removing session '50b2a485-9473-4c96-b121-3bcfe6114d06' from our master session list
 [38;5;51m[50b2a485][0m[38;5;-158m[AndroidUiautomator2Driver@b221][0m Did not get confirmation UiAutomator2 deleteSession worked; Error was: UnknownError: An unknown server-side error occurred while processing the command. Original error: 'DELETE /' cannot be proxied to UiAutomator2 server because the instrumentation process is not running (probably crashed). Check the server log and/or the logcat output for more details
 [38;5;51m[50b2a485][0m[38;5;-158m[AndroidUiautomator2Driver@b221][0m Restoring hidden api policy to the device default configuration
+[38;5;112m[Appium][0m Received SIGINT - shutting down
+[38;5;86m[HTTP][0m Closing Appium HTTP server
+[38;5;86m[HTTP][0m Appium HTTP server has been succesfully closed after 99ms
