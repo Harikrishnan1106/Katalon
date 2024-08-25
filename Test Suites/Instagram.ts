@@ -15,7 +15,7 @@
       <guid>df92efef-945a-4dee-a1cb-6f51baef1f9c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Instagram</testCaseId>
+      <testCaseId>Test Cases/InstagramLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
