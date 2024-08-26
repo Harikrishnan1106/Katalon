@@ -1,7 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Instagram,,,,26-08-2024 08:00:45,26-08-2024 08:02:15,1m - 30.064s,FAILED
-,,,,,,,
-Test Cases/InstagramLogin,,,,26-08-2024 08:01:56,26-08-2024 08:02:15,18.795s,FAILED
-"startExistingApplication(""com.instagram.android"")",,,,26-08-2024 08:01:56,26-08-2024 08:02:04,7.299s,PASSED
-"waitForElementPresent(findTestObject(""Instagram/Log in to another account""), 3)",,,,26-08-2024 08:02:04,26-08-2024 08:02:09,5.097s,PASSED
-"tap(findTestObject(""Instagram/Log in to another account""), 4)",,,,26-08-2024 08:02:09,26-08-2024 08:02:15,6.376s,FAILED
