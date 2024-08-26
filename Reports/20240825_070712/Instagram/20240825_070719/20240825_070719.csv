@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Instagram,,,,25-08-2024 07:07:26,25-08-2024 07:07:28,1.817s,FAILED
-,,,,,,,
-Test Cases/InstagramLogin,,,,25-08-2024 07:07:26,25-08-2024 07:07:28,1.569s,FAILED
-"startExistingApplication(""com.instagram.android"")",,,,25-08-2024 07:07:27,25-08-2024 07:07:28,1.031s,FAILED
